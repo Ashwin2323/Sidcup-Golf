@@ -1,4 +1,4 @@
-#Sidcup Clone 
+# Sidcup Clone 
 This is a clone website of SidCup Golf company's website.
 It includes only frontend part of the website based on
 - HTML
